@@ -1,0 +1,11 @@
+12:36:17       3 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32460 | Windows 10
+12:36:17       3 INFO    CatalogManagerExt: [CatalogManager] No catalog for build 099.2025.32460, scanning...
+12:36:19      62 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
+12:36:44    1241 INFO    CatalogManagerExt: [CatalogManager] Scan complete: 685 types, 18937 params
+12:36:44    1241 INFO    CatalogManagerExt: [CatalogManager] Palette bootstrap hit: 261 entries for build 099.2025.32460 (skipping scan)
+12:36:44    1241 INFO    CatalogManagerExt: [CatalogManager] Palette scan complete: 261 components
+12:36:44    1241 INFO    CatalogManagerExt: [CatalogManager] Wrote catalog to catalog_099.2025.32460.json (648 types)
+16:10:10       5 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32460 | Windows 10
+16:10:10       5 INFO    CatalogManagerExt: [CatalogManager] Loaded catalog for build 099.2025.32460
+16:10:11      64 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
+16:11:00    2967 SUCCESS EmbodyExt: Added '/wifi_test'
