@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "params": {
+    "Taggingmenucolorg": {
+      "val": 0.2
+    },
+    "Clonetagcolorb": {
+      "val": 0.1
+    },
+    "Dattagcolorr": {
+      "val": 0.9
+    },
+    "Txttag": {
+      "val": "txt"
+    },
+    "Toxtagcolorg": {
+      "val": 0.8
+    },
+    "Taggingmenucolorb": {
+      "val": 0.2
+    },
+    "Tdndatsafety": {
+      "val": "ask"
+    },
+    "Detectduplicatepaths": {
+      "val": true
+    },
+    "Filecleanup": {
+      "val": "delete"
+    },
+    "Glsltag": {
+      "val": "glsl"
+    },
+    "Logtofile": {
+      "val": true
+    },
+    "Toxtagcolorb": {
+      "val": 0.3
+    },
+    "Tdntag": {
+      "val": "tdn"
+    },
+    "Toxtag": {
+      "val": "tox"
+    },
+    "Dattagcolorb": {
+      "val": 0.4
+    },
+    "Tdntagcolorr": {
+      "val": 0.3
+    },
+    "Xmltag": {
+      "val": "xml"
+    },
+    "Clonetagcolorg": {
+      "val": 0.7
+    },
+    "Toxrestoreonstart": {
+      "val": true
+    },
+    "Verbose": {
+      "val": false
+    },
+    "Aiclient": {
+      "val": "claudecode"
+    },
+    "Dattagcolorg": {
+      "val": 0.3
+    },
+    "Jsontag": {
+      "val": "json"
+    },
+    "Rtftag": {
+      "val": "rtf"
+    },
+    "Mdtag": {
+      "val": "md"
+    },
+    "Folder": {
+      "val": "tox"
+    },
+    "Envoyport": {
+      "val": 9870
+    },
+    "Datrestoreonstart": {
+      "val": true
+    },
+    "Tdncascade": {
+      "val": false
+    },
+    "Pytag": {
+      "val": "py"
+    },
+    "Embeddatsintdns": {
+      "val": false
+    },
+    "Htmltag": {
+      "val": "html"
+    },
+    "Tdnmode": {
+      "val": "export"
+    },
+    "Print": {
+      "val": true
+    },
+    "Embedstorageintdns": {
+      "val": true
+    },
+    "Taggingmenucolorr": {
+      "val": 0.2
+    },
+    "Dattag": {
+      "val": "dat"
+    },
+    "Clonetagcolorr": {
+      "val": 1.0
+    },
+    "Localtimestamps": {
+      "val": true
+    },
+    "Tdntagcolorb": {
+      "val": 0.9
+    },
+    "Tdntagcolorg": {
+      "val": 0.5
+    },
+    "Envoyenable": {
+      "val": false
+    },
+    "Csvtag": {
+      "val": "csv"
+    },
+    "Tdncreateonstart": {
+      "val": true
+    },
+    "Logfolder": {
+      "val": "logs"
+    },
+    "Tsvtag": {
+      "val": "tsv"
+    },
+    "Toxtagcolorr": {
+      "val": 0.325
+    },
+    "Tdnstriponsave": {
+      "val": true
+    }
+  }
+}
