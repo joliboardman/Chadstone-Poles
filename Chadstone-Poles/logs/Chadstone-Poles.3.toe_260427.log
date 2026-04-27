@@ -1,2 +1,14 @@
 12:38:28   63139 WARNING EmbodyExt: Operator '/container1asd' no longer exists!
 12:38:28   63139 SUCCESS EmbodyExt: Removed '/container1asd'
+16:32:43       4 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32460 | Windows 10
+16:32:43       4 INFO    EmbodyExt: Restored 48 settings from config.json
+16:32:43       4 INFO    CatalogManagerExt: [CatalogManager] Loaded catalog for build 099.2025.32460
+16:32:43      16 INFO    EmbodyExt: Disable: Found 2 tracked file(s) to clean up
+16:32:43      16 SUCCESS EmbodyExt: Deleted 2 tracked file(s)
+16:32:43      16 SUCCESS EmbodyExt: Disabled
+16:32:44      63 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
+16:32:44      64 SUCCESS EmbodyExt: Enabled
+16:32:44      64 SUCCESS EmbodyExt: Created folder 'C:\Users\Admin\Documents\GitHub\Chadstone-Poles\Chadstone-Poles\tox'
+16:32:44      76 SUCCESS EmbodyExt: Added '/externalizations'
+16:32:44      76 SUCCESS EmbodyExt: Added '/wifi_test'
+16:32:44      76 SUCCESS EmbodyExt: Added 2 operators in total

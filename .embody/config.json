@@ -1,101 +1,68 @@
 {
   "version": 1,
   "params": {
-    "Taggingmenucolorg": {
-      "val": 0.2
-    },
-    "Clonetagcolorb": {
-      "val": 0.1
-    },
-    "Dattagcolorr": {
-      "val": 0.9
-    },
-    "Txttag": {
-      "val": "txt"
-    },
-    "Toxtagcolorg": {
-      "val": 0.8
-    },
-    "Taggingmenucolorb": {
-      "val": 0.2
-    },
     "Tdndatsafety": {
       "val": "ask"
-    },
-    "Detectduplicatepaths": {
-      "val": true
-    },
-    "Filecleanup": {
-      "val": "delete"
-    },
-    "Glsltag": {
-      "val": "glsl"
-    },
-    "Logtofile": {
-      "val": true
-    },
-    "Toxtagcolorb": {
-      "val": 0.3
-    },
-    "Tdntag": {
-      "val": "tdn"
-    },
-    "Toxtag": {
-      "val": "tox"
-    },
-    "Dattagcolorb": {
-      "val": 0.4
-    },
-    "Tdntagcolorr": {
-      "val": 0.3
-    },
-    "Xmltag": {
-      "val": "xml"
-    },
-    "Clonetagcolorg": {
-      "val": 0.7
-    },
-    "Toxrestoreonstart": {
-      "val": true
-    },
-    "Verbose": {
-      "val": false
-    },
-    "Aiclient": {
-      "val": "claudecode"
     },
     "Dattagcolorg": {
       "val": 0.3
     },
-    "Jsontag": {
-      "val": "json"
+    "Htmltag": {
+      "val": "html"
     },
-    "Rtftag": {
-      "val": "rtf"
-    },
-    "Mdtag": {
-      "val": "md"
-    },
-    "Folder": {
-      "val": "tox"
-    },
-    "Envoyport": {
-      "val": 9870
-    },
-    "Datrestoreonstart": {
-      "val": true
-    },
-    "Tdncascade": {
-      "val": false
+    "Taggingmenucolorg": {
+      "val": 0.2
     },
     "Pytag": {
       "val": "py"
     },
-    "Embeddatsintdns": {
+    "Clonetagcolorr": {
+      "val": 1.0
+    },
+    "Tdncascade": {
       "val": false
     },
-    "Htmltag": {
-      "val": "html"
+    "Folder": {
+      "val": "tox"
+    },
+    "Taggingmenucolorb": {
+      "val": 0.2
+    },
+    "Toxrestoreonstart": {
+      "val": true
+    },
+    "Txttag": {
+      "val": "txt"
+    },
+    "Embedstorageintdns": {
+      "val": true
+    },
+    "Glsltag": {
+      "val": "glsl"
+    },
+    "Taggingmenucolorr": {
+      "val": 0.2
+    },
+    "Tdntagcolorg": {
+      "val": 0.5
+    },
+    "Dattag": {
+      "val": "dat"
+    },
+    "Aiclient": {
+      "val": "claudecode"
+    },
+    "Xmltag": {
+      "val": "xml"
+    },
+    "Envoyport": {
+      "val": 9870
+    },
+    "Filecleanup": {
+      "val": "delete"
+    },
+    "Envoyenable": {
+      "val": false
     },
     "Tdnmode": {
       "val": "export"
@@ -103,47 +70,80 @@
     "Print": {
       "val": true
     },
-    "Embedstorageintdns": {
+    "Logtofile": {
       "val": true
     },
-    "Taggingmenucolorr": {
-      "val": 0.2
-    },
-    "Dattag": {
-      "val": "dat"
-    },
-    "Clonetagcolorr": {
-      "val": 1.0
-    },
-    "Localtimestamps": {
-      "val": true
-    },
-    "Tdntagcolorb": {
-      "val": 0.9
-    },
-    "Tdntagcolorg": {
-      "val": 0.5
-    },
-    "Envoyenable": {
+    "Verbose": {
       "val": false
     },
-    "Csvtag": {
-      "val": "csv"
-    },
     "Tdncreateonstart": {
+      "val": true
+    },
+    "Toxtagcolorr": {
+      "val": 0.325
+    },
+    "Clonetagcolorb": {
+      "val": 0.1
+    },
+    "Detectduplicatepaths": {
+      "val": true
+    },
+    "Tdntag": {
+      "val": "tdn"
+    },
+    "Clonetagcolorg": {
+      "val": 0.7
+    },
+    "Embeddatsintdns": {
+      "val": false
+    },
+    "Mdtag": {
+      "val": "md"
+    },
+    "Dattagcolorb": {
+      "val": 0.4
+    },
+    "Toxtagcolorg": {
+      "val": 0.8
+    },
+    "Localtimestamps": {
       "val": true
     },
     "Logfolder": {
       "val": "logs"
     },
-    "Tsvtag": {
-      "val": "tsv"
+    "Dattagcolorr": {
+      "val": 0.9
     },
-    "Toxtagcolorr": {
-      "val": 0.325
+    "Datrestoreonstart": {
+      "val": true
+    },
+    "Toxtagcolorb": {
+      "val": 0.3
     },
     "Tdnstriponsave": {
       "val": true
+    },
+    "Tdntagcolorb": {
+      "val": 0.9
+    },
+    "Csvtag": {
+      "val": "csv"
+    },
+    "Jsontag": {
+      "val": "json"
+    },
+    "Toxtag": {
+      "val": "tox"
+    },
+    "Tsvtag": {
+      "val": "tsv"
+    },
+    "Rtftag": {
+      "val": "rtf"
+    },
+    "Tdntagcolorr": {
+      "val": 0.3
     }
   }
 }
