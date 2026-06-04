@@ -1,0 +1,4 @@
+21:32:18       3 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32820 | Windows 10
+21:32:18       3 INFO    EmbodyExt: Restored 48 settings from config.json
+21:32:18       3 INFO    CatalogManagerExt: [CatalogManager] Loaded catalog for build 099.2025.32820
+21:32:19      62 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
