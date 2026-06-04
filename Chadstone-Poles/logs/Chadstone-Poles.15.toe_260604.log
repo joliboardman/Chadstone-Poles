@@ -1,4 +1,0 @@
-14:54:44       4 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32820 | macOS 26.5
-14:54:44       4 INFO    EmbodyExt: Restored 48 settings from config.json
-14:54:44       4 INFO    CatalogManagerExt: [CatalogManager] Loaded catalog for build 099.2025.32820
-14:54:45      63 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction

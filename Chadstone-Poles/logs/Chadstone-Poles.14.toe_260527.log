@@ -1,5 +1,0 @@
-13:42:38       3 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32820 | Windows 10
-13:42:38       3 INFO    EmbodyExt: Restored 48 settings from config.json
-13:42:38       3 INFO    CatalogManagerExt: [CatalogManager] Loaded catalog for build 099.2025.32820
-13:42:39      62 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
-13:50:03   26725 SUCCESS EmbodyExt: Reset externaltox for '/Person_Counter'

@@ -1,9 +1,0 @@
-13:25:22       4 INFO    execute:10: Embody v5.0.391 | TouchDesigner 099.2025.32820 | Windows 10
-13:25:22       4 INFO    EmbodyExt: Restored 48 settings from config.json
-13:25:22       4 INFO    CatalogManagerExt: [CatalogManager] No catalog for build 099.2025.32820, scanning...
-13:25:25      63 INFO    EmbodyExt: TDN mode=export -- .toe is source of truth, skipping reconstruction
-13:25:48     402 INFO    CatalogManagerExt: [CatalogManager] Scan complete: 685 types, 18945 params
-13:25:48     402 INFO    CatalogManagerExt: [CatalogManager] Palette scan skipping blocklisted: ['autoui', 'tdvr']
-13:25:48     402 INFO    CatalogManagerExt: [CatalogManager] Palette scan: 275 components
-13:26:53     414 INFO    CatalogManagerExt: [CatalogManager] Palette scan complete: 261 components
-13:26:53     414 INFO    CatalogManagerExt: [CatalogManager] Wrote catalog to catalog_099.2025.32820.json (648 types)
